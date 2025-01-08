@@ -12,7 +12,7 @@ I am a passionate JavaScript developer and full-stack developer. I enjoy working
 
 Feel free to reach out to me if you have any questions or if you’d like to collaborate on a project! You can find me on:
 
-- [LinkedIn](@mehdi-garouaz)
-- [Personal Website/Blog](mehdi-garouaz)
+- [LinkedIn](https://www.linkedin.com/in/mehdi-garouaz)
+- [Personal Website/Blog](https://mehdigr.is-a.dev)
 
 Thank you for visiting my profile! I look forward to connecting with you.
