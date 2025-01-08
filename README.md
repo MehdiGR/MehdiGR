@@ -2,7 +2,7 @@
 
 Hello! 👋
 
-I’m [Mehdi Garouaz].
+I’m Mehdi Garouaz.
 
 ## About Me
 
